@@ -1,6 +1,6 @@
 # sparkly-laundry
-## laundry management app
-### This app was made on XAMPP using MySQL, PHP, and HTML
+### laundry management app
+#### This app was made on XAMPP using MySQL, PHP, and HTML
 
 How to use:
 1. Download the Sparkly app
